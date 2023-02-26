@@ -21,7 +21,7 @@ collections:
   language-modeling:
     output: true
     permalink: /:collection/:path
-    title: "Industry 4.0; Digital technology and sustainable development"
+    title: "Digital technology and sustainable development"
     show: true
   machine-translation:
     output: true
@@ -31,12 +31,12 @@ collections:
   multilingual-nmt:
     output: true
     permalink: /:collection/:path
-    title: "Quantitative Analysis of Australian mining coal industry"
+    title: "Quantitative Analysis of Australian mining coal"
     show: true
   cross-lingual-lm:
     output: true
     permalink: /:collection/:path
-    title: "China's social credit system and CBDC: The Practice of Control"
+    title: "China's social credit system and CBDC"
     show: true
   speech-recognition:
     output: false
