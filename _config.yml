@@ -33,7 +33,7 @@ collections:
     permalink: /:collection/:path
     title: "Quantitative Analysis of Australian mining coal"
     show: true
-  cross-lingual-lm:
+  cbdc:
     output: true
     permalink: /:collection/:path
     title: "China's social credit system and CBDC"
