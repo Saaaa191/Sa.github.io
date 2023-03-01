@@ -1,6 +1,6 @@
 ---
 title: "Digital technology and sustainable development in Australia"
-date: 2023
+date: 2023-03-01
 cover: /1.png
 labs: ["Les E., Saar Y.,
 Erik F. & Kan Z.
