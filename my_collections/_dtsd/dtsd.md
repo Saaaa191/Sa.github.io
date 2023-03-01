@@ -1,5 +1,5 @@
 ---
-title: "Digital technology and sustainable development in Australia"
+title: "Industry 4.0; Digital technology and sustainable development in Australia"
 date: 2023-03-01
 cover: /1.png
 labs: ["Les E., Saar Y.,
@@ -8,8 +8,7 @@ at Universtty of Melbourne"]
 comments: Master Capstone project; Unpublished
 ---
 
-###  Industry 4.0; Digital technology and sustainable development in Australia 
-##### **●Why Industry 4.0？**
+### **Why Industry 4.0？**
 ![i4](https://cdn.discordapp.com/attachments/1068593243815677983/1080380397105446912/I4.0.png)
 
 
