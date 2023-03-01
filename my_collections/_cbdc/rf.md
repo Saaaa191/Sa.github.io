@@ -1,4 +1,10 @@
-### Reference
+---
+title: "Reference"
+date: 2023-03-01
+cover: /77.png
+labs: ["Saar Y. at Peking University"]
+comments: Unpublished
+---
 
 
 Aldendorff, N. (2019). Transforming Society for the Better? Why China’s Social Credit Systems are Surprisingly Popular.
