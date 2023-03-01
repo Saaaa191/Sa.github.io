@@ -1,11 +1,13 @@
-
 ---
 title: "Quantitative Analysis of the Australian mining coal industry"
 date: 2023-03-01
-cover: /1.png
+cover: /900.png
 labs: ["Saar Y. at RMIT"]
 comments: Unpublished
 ---
+
+
+
 
 ### Climate change policy
 
