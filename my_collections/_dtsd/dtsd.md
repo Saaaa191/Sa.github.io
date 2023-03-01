@@ -1,7 +1,7 @@
 ---
 title: "123"
 date: 2020-05-22
-cover: /avatar-light.png
+cover: /1.png
 labs: ["saar"]
 comments: # Whether or not the post will have comments. (default: true)
 ---
