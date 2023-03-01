@@ -23,12 +23,12 @@ collections:
     permalink: /:collection/:path
     title: "Digital technology and sustainable development"
     show: true
-  machine-translation:
+  ro:
     output: true
     permalink: /:collection/:path
     title: "Research obstacles for climate change policy"
     show: true
-  multilingual-nmt:
+  qa:
     output: true
     permalink: /:collection/:path
     title: "Quantitative Analysis of Australian mining coal"
