@@ -18,7 +18,7 @@ author:
 
 collections_dir: my_collections
 collections:
-  language-modeling:
+  dtsd:
     output: true
     permalink: /:collection/:path
     title: "Digital technology and sustainable development"
