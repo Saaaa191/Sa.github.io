@@ -22,7 +22,7 @@ comments: Master Capstone project; Unpublished
 
 ###  Policy Framework 
 
-##### **●Key technocratic elements (the bound) of the policy proposal**
+**●Key technocratic elements (the bound) of the policy proposal**
 
 ○Establishment of a skills framework
 
