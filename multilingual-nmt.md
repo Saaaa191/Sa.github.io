@@ -1,6 +1,6 @@
 ---
 layout: named_collection
-collection_name: multilingual-nmt
-title: Multilingual NMT
-permalink: /multilingual-nmt/
+collection_name: ra
+title: ra
+permalink: /ra/
 ---
