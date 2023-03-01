@@ -43,7 +43,10 @@ Second largest market share Glencore Operations Australia Pty Limited 14.2%
 
 ![data](https://cdn.discordapp.com/attachments/1068593243815677983/1080454844785098772/99.png)
 
-This table depicts a 3-sector economy that excludes external demand. The interpretation of the data shows that the Type I multiplier for the cattle industry is 17. This means that for every $1 change in final demand sales in the local economy, the total direct and indirect impacts on the cattle and sheep sector are $1.7, and vice versa. The sector with the highest Type I multiplier is heavy and civil engineering, with a value of 2.56. The lowest Type I multiplier is in the Pharmaceutical and Medicinal Product Manufacturing sector, with a value of 1.03.
+
+
+
+This table depicts a 3-sector economy that excludes external demand. The interpretation of the data shows that the Type I multiplier for the cattle industry is '1.7'. This means that for every $1 change in final demand sales in the local economy, the total direct and indirect impacts on the cattle and sheep sector are $1.7, and vice versa. The sector with the highest Type I multiplier is heavy and civil engineering, with a value of 2.56. The lowest Type I multiplier is in the Pharmaceutical and Medicinal Product Manufacturing sector, with a value of 1.03.
 
 The Type I multipliers explain the value change for an industry when an economy's final demand sales vary per unit. For instance, the Type I multiplier for coal mining is 2.36, meaning that when the final sale changes the value by 1 dollar, the change in its output will be 2.36 directly or indirectly.
 
