@@ -1,3 +1,13 @@
+---
+title: "China's social credit system and CBDC"
+date: 2023-03-01
+cover: /1.png
+labs: ["Saar Y. at Peking University"]
+comments: Unpublished
+---
+
+
+
 ### China's social credit system combined with the central bank's digital currency: The Practice of Control
 
 
