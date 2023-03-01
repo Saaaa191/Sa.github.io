@@ -7,7 +7,7 @@ comments: Unpublished
 ---
 
 
-
+### Background
 
 In China, the government is currently running the Social Credit System (SCS) in several cities, a policy that attempts to integrate financial credit systems and the quantified data of all citizens and companies broadly. China's SCS combines big data and algorithmic models to create a new form of Chinese government authority, which has the potential to create a new-level social inequality and individual freedom restriction. Meanwhile, the People's Bank of China (PBOC) has announced the launch of testing a central bank digital currency, E-CNY; and a Digital Currency Electronic Payment (DCEP) policy, which will be based on the existing two-tier currency system in circulation. DCEP represents the most liquid form of money supply, the same as socially circulating paper money and coins, M0, but in digital form. Furthermore, DCEP does not fit into the classical concept of non-decentralized virtual currencies. It has a centralized issuance, a legal status payment method and a mechanism to improve the efficiency of the transmission of monetary policies in China. This proposal attempts to explore how the Chinese social credit system, when combined with the central bank's digital currency, produces an enhanced practice of government control. This topic could clarify the future world's possible emerging societies and structures. Both data authoritarianism and a socialist planned economy are likely to emerge from the combination of these two policies. This paper will use a case study method to solve the problem by establishing the correlation between SCS and DCEP with Alipay and Sesame Credit.
 
