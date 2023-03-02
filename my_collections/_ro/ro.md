@@ -1,4 +1,12 @@
-Research obstacles and possible solutions for climate change policy under the European green deal 
+---
+title: "Research obstacles and possible solutions for climate change policy under the European green deal "
+date: 2023-03-01
+cover: /521.png
+labs: ["Saar Y. at University of Melbourne"]
+comments: Unpublished
+---
+
+
 
 ![1](https://cdn.discordapp.com/attachments/1068593243815677983/1080722474351726622/E6QcTIoXIAAQShA.png)
 
