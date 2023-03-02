@@ -1,7 +1,7 @@
 ---
 title: "Research obstacles and possible solutions for climate change policy under the European green deal "
 date: 2023-03-01
-cover: /521.png
+cover: /999.png
 labs: ["Saar Y. at University of Melbourne"]
 comments: Unpublished
 ---
@@ -12,7 +12,6 @@ comments: Unpublished
 
 ### Background
 
-
 Climate change refers to the potential climate consequences of increased greenhouse gas emissions (hereinafter GHGE). To prevent potential high costs in socioeconomic losses and keep human lives safe. Governments around the world have launched mitigation and adaptation policies to reduce carbon emissions. In setting targets for climate change policy, the European Union (EU) has translated international commitments into emission reduction responsibilities/missions for each member state since the Kyoto Protocol. However, the EU strategy has resulted in 'high costs and low effectiveness' in terms of overall world carbon emissions for various reasons. In December 2019, the European Commission published the European Green Deal, which implements the United Nations (UN) 2030 Agenda for Sustainable Development and aims to transform the EU into a modern, resource-efficient economy, achieving net zero greenhouse gas emissions and decoupling economic growth from resource consumption by 2050. At the same time, the Deal also proposed the first European Climate Law, which was subsequently agreed upon by the EU Council and the European Parliament in May 2021. The Act sets a target of reducing the EU's net greenhouse gas emissions by 55% by 2030 compared to 1990 levels and achieving carbon neutrality by 2050. 
 
 ![gd1](https://cdn.discordapp.com/attachments/1068593243815677983/1080722474569842778/green-deal.png)
@@ -20,11 +19,13 @@ Climate change refers to the potential climate consequences of increased greenho
 
 
 ### 	Research objectives
+
 This paper attempts to analyze the main obstacles to the implementation of the European Green Deal policies and attempts to analyze their solutions. Using a Data study, this paper gathers the general framework of the Green Deal with three directions and streamlines the eight climate policy measures in Direction one. Also, identify the potential carbon leakage issues arising from measure I. & III. which include target legislation, strict digital regulation, carbon allowance, carbon trade and transformation of high carbon industries. And core technical constraints in new energy development from II., include renewable energy transition and energy storage. As well as the funding gap issue that exists across all remaining measures. Two solutions are proposed for the above obstacles, which are Carbon Border Adjustment Mechanism and Super Grid Direct Energy Storage.
 
  
 
 ### 	Outcomes
+
 ##### 8 Measures
 
 I. Raising the EU's climate ambitions for 2030 and 2050: launch of climate law, set 55% GHGE reduction target, review of climate instruments, the introduction of carbon trading system, the introduction of forestry and land regulations, revision of energy taxes
@@ -44,6 +45,7 @@ VII.  Conservation and restoration of ecosystems and biodiversity: biodiversity 
 VIII. Ambition to achieve zero pollution in a non-toxic environment： a sustainable chemical strategy, strict regulation of industrial pollution, start zero air, water and soil pollution plan
 
 ##### Obstacles
+
 This paper examines the obstacles to the agreement by analyzing the various policies presented in Part 1. Three major obstacles are identified. The first obstacle is the carbon border adjustment mechanism (CBAM), which aims to address the issue of carbon leakage. However, the implementation of CBAM has several details that are not conducive to local enterprises being competitive, and it needs to be refined in practice. Additionally, CBAM can potentially increase the cost of living for the domestic population.
 
 The second obstacle is the core technology barrier of renewable energy, which is being addressed through the super grid program. This initiative directly connects smart grids to different generation and energy storage facilities. However, the program is costly, multi-country, difficult to implement, and requires high technical and security requirements.
@@ -64,6 +66,7 @@ Although CBAM can address the issue of carbon leakage, there are still concerns 
 ![ddd](https://cdn.discordapp.com/attachments/1068593243815677983/1080733563714027550/ICAP-Map.png)
 
 #### Core technologies
+
 The discontinuity, instability, difficulty of transport/exchange, storage, and geographical limitations of new energy sources highlight the necessity for technological innovation, specifically the super grid. A super grid is an intelligent hybrid AC/DC wide-area power transmission network that relies on long-distance distribution facilities. It can connect various power generation systems and transmit significant amounts of electricity. This innovative technology allows for loading electricity several kilometres away with minimal losses and maximum efficiency. Additionally, it comes equipped with a digital energy management system, which enables the super grid to control, manage, and optimize transmission grids, microgrids, and multiple generation units for fast response and security of the whole power system (de Rubens, et al., 2019).
 
 Supported by the EU, 10 multinational enterprises have established a partnership with the Super Grid (FOSG) to promote the intelligence of the European grid and strengthen interconnections across regions. According to the FOSG report in 2016, the future direction of transmission technology in Europe is the direct current grid. The report also emphasizes the importance of large-scale energy storage technologies in super grids to ensure a stable, balanced system. However, although new energy storage technologies such as hydrogen and methane production technology have been developed and applied in Germany, they are still in the early stages of industrialization and currently have low efficiency and high costs, requiring longer operational validation (Schiebahn, S., et al., 2015).
@@ -81,7 +84,6 @@ For the target of a 55% reduction in GHGE in 2030 set by the Green Deal, the Eur
 
 ### Reference
 	
-
 Olhoff, A., & Christensen, J. (2017). Scoping the Emissions Gap Report 2017-The Emissions Gap Report 2017 Chapter 1. _The Emissions Gap Report 2017: A UN Environment Synthesis Report_.
 
 Rockström, J., Gaffney, O., Rogelj, J., Meinshausen, M., Nakicenovic, N., & Schellnhuber, H. J. (2017). A roadmap for rapid decarbonization. _Science_, _355_(6331), 1269-1271.
