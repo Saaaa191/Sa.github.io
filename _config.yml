@@ -1,5 +1,5 @@
 # Site settings
-title: "Saar's Profile"
+title: "指明台"
 description: 'Research experience, a short five-minute presentation'
 cover: images/forest.jpg
 baseurl: ''
@@ -7,9 +7,9 @@ google_analytics: ''
 disqus_shortname: 'Saar'
 
 author:
-  name: 'Shouzheng Yu'
-  pronouns: he/him
-  email: sa@darewise.space
+  name: '指明台'
+  pronouns: 宇守正
+  email: UCGKY00@outlook.com
   github:  
   linkedin:  
   stackoverflow:  
