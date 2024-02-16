@@ -1,13 +1,13 @@
 # Site settings
 title: "指明台"
-description: '个人信息& 业务介绍'
+description: '客户须知'
 cover: images/forest.jpg
 baseurl: ''
 google_analytics: ''
 disqus_shortname: 'Saar'
 
 author:
-  name: ' 指明台文化咨詢'
+  name: ' 指明台文化咨询（点击返回主页）'
   pronouns:  宇守正
   email: UCGKY00@outlook.com
   github:  
