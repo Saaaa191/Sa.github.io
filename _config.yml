@@ -21,22 +21,22 @@ collections:
   dtsd:
     output: true
     permalink: /:collection/:path
-    title: "Digital technology and sustainable development"
+    title: "交易流程"
     show: true
   ro:
     output: true
     permalink: /:collection/:path
-    title: "Research obstacles for climate change policy"
+    title: "客户准则"
     show: true
   qa:
     output: true
     permalink: /:collection/:path
-    title: "Quantitative Analysis of Australian mining coal"
+    title: "支付方式"
     show: true
   cbdc:
     output: true
     permalink: /:collection/:path
-    title: "China's social credit system and CBDC"
+    title: "其他"
     show: true
   speech-recognition:
     output: false
