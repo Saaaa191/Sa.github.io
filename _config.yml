@@ -21,12 +21,12 @@ collections:
   dtsd:
     output: true
     permalink: /:collection/:path
-    title: "交易流程"
+    title: "客户准则"
     show: true
   ro:
     output: true
     permalink: /:collection/:path
-    title: "客户准则"
+    title: "其他"
     show: true
   qa:
     output: true
@@ -36,7 +36,7 @@ collections:
   cbdc:
     output: true
     permalink: /:collection/:path
-    title: "其他"
+    title: "交易流程"
     show: true
   speech-recognition:
     output: false
